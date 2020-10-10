@@ -1,0 +1,7 @@
+C:\Users\baiom\source\repos\FisherYatesShuffle\FisherYatesShuffle\bin\Debug\FisherYatesShuffle.exe.config
+C:\Users\baiom\source\repos\FisherYatesShuffle\FisherYatesShuffle\bin\Debug\FisherYatesShuffle.exe
+C:\Users\baiom\source\repos\FisherYatesShuffle\FisherYatesShuffle\bin\Debug\FisherYatesShuffle.pdb
+C:\Users\baiom\source\repos\FisherYatesShuffle\FisherYatesShuffle\obj\Debug\FisherYatesShuffle.csprojAssemblyReference.cache
+C:\Users\baiom\source\repos\FisherYatesShuffle\FisherYatesShuffle\obj\Debug\FisherYatesShuffle.csproj.CoreCompileInputs.cache
+C:\Users\baiom\source\repos\FisherYatesShuffle\FisherYatesShuffle\obj\Debug\FisherYatesShuffle.exe
+C:\Users\baiom\source\repos\FisherYatesShuffle\FisherYatesShuffle\obj\Debug\FisherYatesShuffle.pdb
