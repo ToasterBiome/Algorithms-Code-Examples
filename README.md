@@ -22,5 +22,7 @@ Splits the array into smaller chunks to work towards the target faster. Compares
 ### Interpolation Search
 Basically the same as the Binary Search algorithm but it uses an algorithm IN the algorithm to find a better comparison than the middle of the array. 
 The algorithm in question:
-	index = start + ((target - data[start]) * (end - start) / (data[end] - data[start])) 
+```
+index = start + ((target - data[start]) * (end - start) / (data[end] - data[start])) 
+```
 Much fancier. Does have the requirement that it needs to be sorted AND all the values are uniformly distributed. Best case O(log log n), worse case O(n).
